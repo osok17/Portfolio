@@ -1,5 +1,6 @@
 # [Morpheus QA Report](https://code4rena.com/reports/2025-08-morpheus#low-risk-and-non-critical-issues)
 
+## Findings by osok17
 | ID | Title |
 |:--:|:---|
 | [L-1](#l-1-lack-of-reward-pool-management-functions) | Lack of Reward Pool Management Functions |
